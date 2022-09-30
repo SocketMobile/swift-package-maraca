@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-package-capturesdk",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SocketMobile/swift-package-capturesdk",
+      "state" : {
+        "revision" : "4fad3120649dbba818997d8fe960770e9be267b9",
+        "version" : "1.5.2"
+      }
+    },
+    {
+      "identity" : "swift-package-maraca",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SocketMobile/swift-package-maraca",
+      "state" : {
+        "branch" : "master",
+        "revision" : "790cd2167ad5d0084f886e1ee91eac9731460467"
+      }
+    }
+  ],
+  "version" : 2
+}
