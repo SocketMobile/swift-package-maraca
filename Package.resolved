@@ -8,15 +8,6 @@
         "revision" : "9938a4d0b09d58209e7504a8165db7dbc4bf3f98",
         "version" : "1.6.39"
       }
-    },
-    {
-      "identity" : "swift-package-maraca",
-      "kind" : "remoteSourceControl",
-      "location" : "https://github.com/SocketMobile/swift-package-maraca",
-      "state" : {
-        "branch" : "master",
-        "revision" : "7b6a4ab539ab4bfdcd70a1564d7011c23fecb478"
-      }
     }
   ],
   "version" : 2

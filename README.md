@@ -1,15 +1,16 @@
-# Maraca Version 1.0.9 - Swift Package Manager
+# Maraca Version 1.0.10 - Swift Package Manager
 
 Socket Mobile is a leading innovator of data capture and delivery solutions for enhanced productivity.
 
 Maraca establishes connections between your iOS application using our [iOS CaptureSDK](https://github.com/SocketMobile/swift-package-capturesdk) and a web application using our [CaptureJS SDK](https://docs.socketmobile.com/capturejs/en/latest/gettingStarted.html). This enables the web application to connect with our scanners and NFC readers with the same flexibilty that our iOS SDK provides.
 
 # Devices compatibility and Maraca versions
-|       Devices                                          |          < 1.0.7       |         >= 1.0.7       |
-| :----------------------------------------------------: | :--------------------: | :--------------------: |
-|   **SocketCam C820**                                   |          ❌            |           ✅           |
-|   **S720/D720/S820**                                   |          ❌            |           ❌           |
-|   **D600, S550, and all other barcode scanners**       |          ✅            |           ✅           |
+|       Devices                                          |          < 1.0.7       |         >= 1.0.7       |        1.0.10         |
+| :----------------------------------------------------: | :--------------------: | :--------------------: | :--------------------: |
+|   **SocketCam C820**                                   |          ❌            |           ✅           |           ✅           |
+|   **S720/D720/S820**                                   |          ❌            |           ❌           |           ✅           |
+|   **D600, S550, and all other barcode scanners**       |          ✅            |           ✅           |           ✅           |
+|   **S370**                                             |          ❌            |           ❌           |           ✅           |
 
 # Table of Contents
 * [Quick install notes](#quick-install-notes)

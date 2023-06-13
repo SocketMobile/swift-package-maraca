@@ -21,7 +21,7 @@ let package = Package(
     ],
     dependencies: [
         // Socket Mobile - CaptureSDK
-        .package(url: "https://github.com/SocketMobile/swift-package-capturesdk", from:"1.5.7")
+        .package(url: "https://github.com/SocketMobile/swift-package-capturesdk", from:"1.6.39")
     ],
     targets: [
         .target(
